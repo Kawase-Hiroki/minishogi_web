@@ -1,0 +1,1 @@
+# minishogi_web
